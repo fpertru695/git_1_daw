@@ -1,6 +1,12 @@
 # git_1_daw
 Práctica de Github
 
+# Tabla
+ | Nombre | GITHUB|
+| ----------- | ----------- |
+| Andrés | [Perfil](https://github.com/AndresGilR/) |
+| Iván | [Perfil](https://github.com/ibarrom693/) |
+
 # Comandos utilizados en la práctica
 
 git clone git@github.com:fpertru695/git_1_daw.git
