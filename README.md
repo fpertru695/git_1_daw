@@ -7,3 +7,5 @@ git clone git@github.com:fpertru695/git_1_daw.git
 git add README.md
 git commit -am "commit inicial"
 git push
+touch .gitignore (archivo para ignorar ficheros y carpetas)
+git tag -a v0.1 -m "Versión 0.1"
